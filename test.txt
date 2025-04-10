@@ -1,4 +1,4 @@
 some text
 some other text
 yet another line :D
-this will should create conflict
+this should resolve conflict
